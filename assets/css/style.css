@@ -99,3 +99,21 @@ body{
     display: inline-block;
     padding: 50px 40px;
 }
+h2{
+    text-align: center;
+}
+
+.imagen_seccion{
+    display: flex;
+    justify-content: center;
+}
+
+.sylveon_poke{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#titulo_4{
+    text-align: center;
+}
